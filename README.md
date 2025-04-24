@@ -108,7 +108,7 @@ Here are a few resources I used to study OAuth2 with Spring Boot:
 
 - [Baeldung OAuth2 Guide](https://www.baeldung.com/spring-security-oauth-resource-server)
 - [Spring Docs - OAuth2](https://docs.spring.io/spring-security/reference/servlet/oauth2/client/authorized-clients.html)
-- [Spring Docs](https://docs.spring.io/spring-authorization-  server/reference/getting-started.html)
+- [Spring Docs](https://docs.spring.io/spring-authorization-server/reference/getting-started.html)
 - [Oauth2](https://docs.spring.io/spring-security/reference/servlet/oauth2/client/index.html
 )
 
@@ -124,17 +124,17 @@ Here are a few resources I used to study OAuth2 with Spring Boot:
 ![Login Page](images/login.png)
 
 ### Consent Required
-![Consent Required](images/Consent required.png)
+![Consent Required](images/ConsentRequired.png)
 
 ### Post Login (Client Landing)
-![Post Login](images/product get all.png)
+![Post Login](images/productGetAll.png)
 
 ### Employee Get Request
-![Get Request](images/employee get.png)
+![Get Request](images/employeeGet.png)
 
 ### Get All Employees
-![Get All Employees](images/get all employee.png)
-(images/get all employee 1.png)
+![Get All Employees](images/getAllEmployee.png)
+![Get All Employees](images/getAllEmployee1.png)
 
 ---
 
