@@ -20,7 +20,7 @@ This project demonstrates the implementation of OAuth 2.0 authentication and aut
 
 ### 2. Resource Server (`localhost:8090`)
 
-- Secured using JWT tokens.
+- Secured using tokens.
 - Exposes REST endpoints:
   - `GET /api/users`
   - `GET /api/products`
